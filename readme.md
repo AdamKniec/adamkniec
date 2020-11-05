@@ -1,4 +1,4 @@
-<img width="100%" src='https://i.ibb.co/Zh5p7cH/background-portrait.gif" alt="Adams picture on the green and black background' />
+<img width="100%" src='https://s8.gifyu.com/images/background-portrait.gif" alt="Adams picture on the green and black background' />
 
 ## About Me
 Self taught developer from Poznań (Poland). Currently working as a Software Engineer in the FinTech market. 
