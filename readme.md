@@ -18,7 +18,7 @@ Mostly interested in the area of Front-End / JavaScript / React development. Gym
 ![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify&logoColor=teal)
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=flat-square&logo=VisualStudioCode&logoColor=teal)
+
 
 ## Contributing
 <a href="https://stackoverflow.com/users/12259643/adamkniec"><img src="https://stackoverflow.com/users/flair/12259643.png" width="208" height="58" alt="profile for AdamKniec at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AdamKniec at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
