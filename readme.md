@@ -14,7 +14,7 @@ Mostly interested in the area of Front-End / JavaScript / React development. Gym
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square)
+![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)
 ![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify&logoColor=teal)
