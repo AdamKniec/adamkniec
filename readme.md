@@ -18,6 +18,8 @@ Mostly interested in the area of Front-End / JavaScript / React development. Gym
 ![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify&logoColor=teal)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap&logoColor=#563D7C)
 
 
 ## Contributing
