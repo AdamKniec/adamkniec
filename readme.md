@@ -24,3 +24,4 @@ Mostly interested in the area of Front-End / JavaScript / React development. Gym
 
 ## Contributing
 <a href="https://stackoverflow.com/users/12259643/adamkniec"><img src="https://stackoverflow.com/users/flair/12259643.png" width="208" height="58" alt="profile for AdamKniec at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AdamKniec at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://codereview.stackexchange.com/users/231163/adamkniec"><img src="https://codereview.stackexchange.com/users/flair/231163.png" width="208" height="58" alt="profile for AdamKniec at Code Review Stack Exchange, Q&amp;A for peer programmer code reviews" title="profile for AdamKniec at Code Review Stack Exchange, Q&amp;A for peer programmer code reviews"></a>
