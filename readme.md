@@ -1,4 +1,4 @@
-<img width="100%" src="https://s8.gifyu.com/images/animated-banner.gif" alt="Adams picture on the green and black background" />
+<img width="100%" src="https://i.ibb.co/VgnXNT5/Hnet-com-image.gif" alt="Adams picture on the green and black background" />
 
 ## About Me
 Self taught developer from Poznań (Poland). Currently working as a Front-End Developer at Netguru. 
