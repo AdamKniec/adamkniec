@@ -20,6 +20,7 @@ Mostly interested in the area of Front-End / JavaScript / React development. Gym
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify&logoColor=teal)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap&logoColor=blueviolet)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ## Contributing
