@@ -21,6 +21,7 @@ Mostly interested in the area of Front-End / JavaScript / React development. Gym
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap&logoColor=blueviolet)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ## Contributing
