@@ -1,7 +1,7 @@
 <img width="100%" src="https://i.ibb.co/VgnXNT5/Hnet-com-image.gif" alt="Adams picture on the green and black background" />
 
 ## About Me
-Self taught developer from Poznań (Poland). Currently working as a Front-End Developer at Netguru. 
+Self taught developer from Poznań (Poland). Currently working as a Senior Front-End Developer at The Software House. 
 Mostly interested in the area of Front-End / JavaScript / React development. Gym and bicycle enthusiast.
 
 ## Tech Stack
